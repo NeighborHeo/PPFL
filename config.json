@@ -1,0 +1,31 @@
+{
+    "working_date": "20220627",
+    "dbms": "mysql",
+    "mssql": {
+        "@server": "111.111.111.111",
+        "@user": "user",
+        "@password": "password",
+        "@port": 14333,
+        "@database": "CDM",
+        "@cdm_database_schema": "CDM.dbo",
+        "@person_database_schema": "temp_moa.dbo"
+    },
+    "postgresql": {
+        "@server": "111.111.111.111",
+        "@user": "user",
+        "@password": "password",
+        "@port": 5432,
+        "@database": "postgres",
+        "@cdm_database_schema": "CDM.dbo",
+        "@person_database_schema": "temp_moa.dbo"
+    },
+    "mysql": {
+        "@server": "111.111.111.111",
+        "@user": "user",
+        "@password": "password",
+        "@port": 13306,
+        "@database": "eicu",
+        "@cdm_database_schema": "CDM.dbo",
+        "@person_database_schema": "temp_moa.dbo"
+    }
+}
