@@ -1,0 +1,65 @@
+﻿hicu_feature_original,hicu_feature_english
+주소1,address1
+혈압,bp
+Creatinine,Creatinine
+체표면적,body surface area
+신장Z,heightZ
+Glucose(POCT),Glucose
+동의서진행상태명,동의서진행상태명
+주민번호,주민번호
+호흡수,respirationrate
+휴대폰전화번호1,phonenum1
+휴대폰전화번호2,phonenum2
+전입_일주일전,전입_일주일전
+조회시점나이,request_age
+pO2,pO2
+주소출력일자,주소출력일자
+주소구분,주소구분
+가진찰권번호여부,가진찰권번호여부
+Hemoglobin,Hb
+전출일자,전출일자
+Neutrophil(%),Neutrophil(%)
+신장,height
+RBC COUNT,RBC COUNT
+Basophil(%),Basophil(%)
+구역번호,구역번호
+동의서진행상태,동의서진행상태
+환자정보비공개여부,환자정보비공개여부
+무효처리_구분,무효처리구분
+PLT Count,PLT Count
+입력일자,입력일자
+idx,idx
+입실나이,admissionAge
+체온,temperature
+K,potassium
+체중P,weightP
+생년월,birthdate
+연구신규_진찰권번호,research_ginchalgwn
+체중,weight
+aPTT,aPTT
+국제수가_적용여부,국제수가_적용여부
+연구내원번호,연구내원번호
+최근내원일,최근내원일
+HCO3-,HCO3-
+검사일자,test date
+연구등록번호,연구등록번호
+pH,pH
+Na,sodium
+지역병원코드,지역병원코드
+지역병원코드명,지역병원코드명
+Cl,Cl
+성별명,gender name
+전입일자,전입일자
+신장P,heightP
+휴대폰_관계코드,휴대폰_관계코드
+맥박수,heartrate
+급여제한여부,급여제한여부
+Eosinophil(%),Eosinophil(%)
+Monocyte(%),Monocyte(%)
+최초_병원코드,최초_병원코드
+외국인여부,외국인여부
+성별,gender
+Hct,Hct
+BUN,BUN
+체중Z,weightZ
+전출_일주일후,전출_일주일후
