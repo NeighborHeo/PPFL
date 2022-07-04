@@ -385,7 +385,7 @@ alkaline phos.,pH,100,0
 bedside glucose,Glucose,100,0
 creatinine,Creatinine,100,1
 glucose,Glucose,100,1
-glucose - CSF,Glucose,100,1
+glucose - CSF,Glucose,100,0
 pH,phonenum1,100,0
 pH,phonenum2,100,0
 pH,Neutrophil(%),100,0

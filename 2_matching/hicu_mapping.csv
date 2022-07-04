@@ -1,0 +1,65 @@
+hicu_feature_original,hicu_feature_english,feature_new_name
+주소1,address1,주소1
+혈압,bp,혈압
+Creatinine,Creatinine,creatinine
+체표면적,body surface area,체표면적
+신장Z,heightZ,신장Z
+Glucose(POCT),Glucose,glucose
+동의서진행상태명,동의서진행상태명,동의서진행상태명
+주민번호,주민번호,주민번호
+호흡수,respirationrate,호흡수
+휴대폰전화번호1,phonenum1,휴대폰전화번호1
+휴대폰전화번호2,phonenum2,휴대폰전화번호2
+전입_일주일전,전입_일주일전,전입_일주일전
+조회시점나이,request_age,조회시점나이
+pO2,pO2,pO2
+주소출력일자,주소출력일자,주소출력일자
+주소구분,주소구분,주소구분
+가진찰권번호여부,가진찰권번호여부,가진찰권번호여부
+Hemoglobin,Hb,Hemoglobin
+전출일자,전출일자,전출일자
+Neutrophil(%),Neutrophil(%),Neutrophil(%)
+신장,height,신장
+RBC COUNT,RBC COUNT,rbc count
+Basophil(%),Basophil(%),Basophil(%)
+구역번호,구역번호,구역번호
+동의서진행상태,동의서진행상태,동의서진행상태
+환자정보비공개여부,환자정보비공개여부,환자정보비공개여부
+무효처리_구분,무효처리구분,무효처리_구분
+PLT Count,PLT Count,PLT Count
+입력일자,입력일자,입력일자
+idx,idx,idx
+입실나이,admissionAge,입실나이
+체온,temperature,temperature
+K,potassium,potassium
+체중P,weightP,체중P
+생년월,birthdate,생년월
+연구신규_진찰권번호,research_ginchalgwn,연구신규_진찰권번호
+체중,weight,체중
+aPTT,aPTT,aPTT
+국제수가_적용여부,국제수가_적용여부,국제수가_적용여부
+연구내원번호,연구내원번호,연구내원번호
+최근내원일,최근내원일,최근내원일
+HCO3-,HCO3-,hco3-
+검사일자,test date,검사일자
+연구등록번호,연구등록번호,연구등록번호
+pH,pH,ph
+Na,sodium,sodium
+지역병원코드,지역병원코드,지역병원코드
+지역병원코드명,지역병원코드명,지역병원코드명
+Cl,Cl,Cl
+성별명,gender name,성별명
+전입일자,전입일자,전입일자
+신장P,heightP,신장P
+휴대폰_관계코드,휴대폰_관계코드,휴대폰_관계코드
+맥박수,heartrate,맥박수
+급여제한여부,급여제한여부,급여제한여부
+Eosinophil(%),Eosinophil(%),Eosinophil(%)
+Monocyte(%),Monocyte(%),Monocyte(%)
+최초_병원코드,최초_병원코드,최초_병원코드
+외국인여부,외국인여부,외국인여부
+성별,gender,성별
+Hct,Hct,hct
+BUN,BUN,bun
+체중Z,weightZ,체중Z
+전출_일주일후,전출_일주일후,전출_일주일후
