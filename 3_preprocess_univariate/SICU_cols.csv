@@ -1,0 +1,133 @@
+0
+patientunitstayid
+patienthealthsystemstayid
+gender
+age
+ethnicity
+hospitalid
+wardid
+apacheadmissiondx
+admissionheight
+hospitaladmittime24
+hospitaladmitoffset
+hospitaladmitsource
+hospitaldischargeyear
+hospitaldischargetime24
+hospitaldischargeoffset
+hospitaldischargelocation
+hospitaldischargestatus
+unittype
+unitadmittime24
+unitadmitsource
+unitvisitnumber
+unitstaytype
+admissionweight
+dischargeweight
+unitdischargetime24
+unitdischargeoffset
+unitdischargelocation
+unitdischargestatus
+uniquepid
+apacheapsvarid
+intubated
+vent
+dialysis
+urine
+wbc
+temperature
+respiratoryrate
+sodium
+heartrate
+meanbp
+ph
+hematocrit
+creatinine
+albumin
+pao2
+pco2
+bun
+glucose
+bilirubin
+fio2
+1000 ML  -  SODIUM CHLORIDE 0.9 % IV SOLN
+1000 ML FLEX CONT : SODIUM CHLORIDE 0.9 % IV SOLN
+1000 ML FLEX CONT: SODIUM CHLORIDE 0.9 % IV SOLN
+2 ML VIAL : ONDANSETRON HCL 4 MG/2ML IJ SOLN
+2 ML: ONDANSETRON HCL 4 MG/2ML IJ SOLN
+50 ML SYRINGE : DEXTROSE 50 % IV SOLN
+ACETAMINOPHEN
+ACETAMINOPHEN 325 MG PO TABS
+ACETAMINOPHEN 650 MG RE SUPP
+ASPIRIN                                                                                                                                                                                                                                                        
+ASPIRIN 81 MG PO CHEW
+ASPIRIN EC 81 MG PO TBEC
+BISACODYL
+BISACODYL 10 MG RE SUPP
+DEXTROSE 5%-NACL 0.9%
+DEXTROSE 50%-WATER
+DOCUSATE SODIUM
+DOCUSATE SODIUM 100 MG PO CAPS
+ENOXAPARIN
+ENOXAPARIN SODIUM 40 MG/0.4ML SC SOLN
+FAMOTIDINE
+FENTANYL CITRATE (PF) 50 MCG/ML INJ SOLN
+FUROSEMIDE
+FUROSEMIDE 40 MG PO TABS
+GLUCAGON
+"HEPARIN 5,000 UNIT/ML"
+HYDROCODONE-ACETAMINOPHEN 5-325 MG PO TABS
+hct
+Hgb
+INSULIN LISPRO
+INSULIN REG 100 UNITS/100 ML
+LISINOPRIL                                                                                                                                                                                                                                                     
+LORazepam
+MAGNESIUM SULF 2 G/50 ML NS
+MCH
+MCHC
+MCV
+METOPROLOL TARTRATE
+METOPROLOL TARTRATE 25 MG PO TABS
+MIDAZOLAM
+MPV
+NARCAN
+NOVOLOG
+ONDANSETRON
+ONDANSETRON HCL (PF) 4 MG/2 ML INJ SOLN
+ONDANSETRON HCL 4 MG/2ML IJ SOLN
+OXYCODONE HCL 5 MG PO TABS
+OXYCODONE IR
+OXYCODONE-ACETAMINOPHEN 5-325 MG PO TABS
+PANTOPRAZOLE
+PANTOPRAZOLE SODIUM 40 MG IV SOLR
+PANTOPRAZOLE SODIUM 40 MG PO TBEC
+PEPCID
+POLYETHYLENE GLYCOL 3350 PO PACK
+POTASSIUM CHLORIDE
+POTASSIUM CHLORIDE 20 MEQ PO PACK
+POTASSIUM CHLORIDE CRYS ER 20 MEQ PO TBCR
+POTASSIUM CHLORIDE ER
+rbc count
+RDW
+"RINGERS SOLUTION,LACTATED"
+SENNOSIDES
+SENNOSIDES-DOCUSATE SODIUM 8.6-50 MG PO TABS
+SODIUM CHLORIDE 0.9 % IV : 1000 ML
+SODIUM CHLORIDE 0.9 % IV SOLP
+SODIUM CHLORIDE 0.9%
+TYLENOL
+VANCOMYCIN HCL 1000 MG IV SOLR
+WBC x 1000
+ZOFRAN
+anion gap
+bicarbonate
+calcium
+chloride
+fentaNYL
+fentaNYL citrate (PF)
+hydrALAZINE
+magnesium
+morphine
+platelets x 1000
+potassium
+gcs
