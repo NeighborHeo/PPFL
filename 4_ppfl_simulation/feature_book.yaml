@@ -1,0 +1,121 @@
+common_features:
+- height
+- heartrate
+- weight
+- creatinine
+- bun
+- temperature
+- hct
+- bp
+- age
+- gender
+- sodium
+- rbc count
+- potassium
+- respiratoryrate
+hicu_specific:
+- Monocyte(%)
+- Neutrophil(%)
+- 외국인여부
+- Cl
+- Eosinophil(%)
+- 체중P
+- 체중Z
+- 신장P
+- 신장Z
+- Hemoglobin
+- 체표면적
+- PLT Count
+- Basophil(%)
+id_and_outcome:
+- death
+- 연구등록번호
+micu_specific:
+- 'SODIUM CHLORIDE 0.9 % SYRINGE : 10 ML SYRINGE'
+- unitstaytype
+- MPV
+- anion gap
+- PANTOPRAZOLE SODIUM 40 MG PO TBEC
+- apacheapsvarid
+- 'SODIUM CHLORIDE 0.9 % IV : 1000 ML'
+- hospitaladmitsource
+- ONDANSETRON HCL (PF) 4 MG/2 ML INJ SOLN
+- pao2
+- glucose
+- alkaline phos.
+- -lymphs
+- hematocrit
+- ethnicity
+- calcium
+- BISACODYL 10 MG RE SUPP
+- ALT (SGPT)
+- WBC x 1000
+- ACETAMINOPHEN 650 MG RE SUPP
+- wardid
+- hospitaladmitoffset
+- hospitalid
+- platelets x 1000
+- -basos
+- POTASSIUM CHLORIDE 20 MEQ PO PACK
+- Hgb
+- chloride
+- AST (SGOT)
+- '50 ML SYRINGE : DEXTROSE 50 % IV SOLN'
+- fio2
+- -monos
+- unitdischargeoffset
+- -eos
+- ACETAMINOPHEN 1,000 MG/100 ML (10 MG/ML) IV SOLN
+- MCH
+- MCV
+- MCHC
+- wbc
+- bilirubin
+- intubated
+- ACETAMINOPHEN  325 MG ORAL TAB
+- hospitaldischargeyear
+- pco2
+- hospitaldischargeoffset
+- NARCAN
+- SODIUM CHLORIDE 0.9 % IV SOLP
+- magnesium
+- urine
+- 1000 ML  -  SODIUM CHLORIDE 0.9 % IV SOLN
+- '1000 ML FLEX CONT: SODIUM CHLORIDE 0.9 % IV SOLN'
+- total protein
+- FENTANYL CITRATE (PF) 50 MCG/ML INJ SOLN
+- gcs
+- POTASSIUM CHLORIDE CRYS ER 20 MEQ PO TBCR
+- bicarbonate
+- METOPROLOL TARTRATE 25 MG PO TABS
+- ACETAMINOPHEN 325 MG PO TABS
+- PANTOPRAZOLE SODIUM 40 MG IV SOLR
+- unitvisitnumber
+- unitadmitsource
+- ph
+- RDW
+- vent
+- VANCOMYCIN HCL 1000 MG IV SOLR
+- '1000 ML FLEX CONT : SODIUM CHLORIDE 0.9 % IV SOLN'
+- albumin
+- dialysis
+- dischargeweight
+sicu_specific:
+- vent
+- PANTOPRAZOLE SODIUM 40 MG PO TBEC
+- FUROSEMIDE 40 MG PO TABS
+- POTASSIUM CHLORIDE CRYS ER 20 MEQ PO TBCR
+- RDW
+- ONDANSETRON HCL 4 MG/2ML IJ SOLN
+- PEPCID
+- gcs
+- PANTOPRAZOLE SODIUM 40 MG IV SOLR
+- DOCUSATE SODIUM 100 MG PO CAPS
+- bicarbonate
+- METOPROLOL TARTRATE 25 MG PO TABS
+- DEXTROSE 50%-WATER
+- LORazepam
+- fio2
+- SODIUM CHLORIDE 0.9%
+- anion gap
+- OXYCODONE-ACETAMINOPHEN 5-325 MG PO TABS
